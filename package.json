@@ -1,0 +1,23 @@
+{
+  "name": "flash-carrds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basicvsclose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyanter/flash-carrds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyanter/flash-carrds/issues"
+  },
+  "homepage": "https://github.com/luckyanter/flash-carrds#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
